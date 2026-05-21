@@ -1,4 +1,4 @@
-FROM centos:9
+FROM centos:8
 MAINTAINER shikhardevops@gmail.com
 
 RUN yum install -y httpd zip unzip
